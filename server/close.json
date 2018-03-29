@@ -1,0 +1,165 @@
+{
+  "document": {
+    "data": {
+      "docNumber": 35,
+      "docType": 5,
+      "fiscprops": [
+        {
+          "printable": "г. Воронеж, ул. генерала Лизюкова, д.4",
+          "tag": 1009,
+          "value": "г. Воронеж, ул. генерала Лизюкова, д.4"
+        },
+        {
+          "caption": "ИНН",
+          "printable": "ИНН\t7725225244",
+          "tag": 1018,
+          "value": "7725225244  "
+        },
+        {
+          "caption": "КАССИР",
+          "printable": "КАССИР\tКАССИР 2",
+          "tag": 1021,
+          "value": "КАССИР 2"
+        },
+        {
+          "printable": "ООО ВЕКТОР-М",
+          "tag": 1048,
+          "value": "ООО ВЕКТОР-М"
+        },
+        {
+          "caption": "МЕСТО РАСЧЕТОВ",
+          "printable": "МЕСТО РАСЧЕТОВ\tОфис 7",
+          "tag": 1187,
+          "value": "Офис 7"
+        },
+        {
+          "printable": "11.08.17 15:14",
+          "tag": 1012,
+          "value": "11 Aug 2017 15:14:00 +0400"
+        },
+        {
+          "caption": "СМЕНА",
+          "printable": "СМЕНА\t8",
+          "tag": 1038,
+          "value": 8
+        },
+        {
+          "caption": "РЕСУРС ФН МЕНЕЕ 30 ДНЕЙ",
+          "printable": "",
+          "tag": 1050,
+          "value": false
+        },
+        {
+          "caption": "РЕСУРС ФН МЕНЕЕ 3 ДНЕЙ",
+          "printable": "",
+          "tag": 1051,
+          "value": false
+        },
+        {
+          "caption": "ПАМЯТЬ ФН ЗАПОЛНЕНА",
+          "printable": "",
+          "tag": 1052,
+          "value": false
+        },
+        {
+          "caption": "ОФД НЕ ОТВЕЧАЕТ",
+          "printable": "",
+          "tag": 1053,
+          "value": false
+        },
+        {
+          "caption": "НЕПЕРЕДАННЫХ ФД",
+          "printable": "НЕПЕРЕДАННЫХ ФД\t1",
+          "tag": 1097,
+          "value": 1
+        },
+        {
+          "caption": "ФД НЕ ПЕРЕДАНЫ С",
+          "printable": "ФД НЕ ПЕРЕДАНЫ С\t11.08.17",
+          "tag": 1098,
+          "value": "11 Aug 2017 15:13:00 +0400"
+        },
+        {
+          "caption": "ФД ЗА СМЕНУ",
+          "printable": "ФД ЗА СМЕНУ\t2",
+          "tag": 1111,
+          "value": 2
+        },
+        {
+          "caption": "ЧЕКОВ ЗА СМЕНУ",
+          "printable": "ЧЕКОВ ЗА СМЕНУ\t0",
+          "tag": 1118,
+          "value": 0
+        },
+        {
+          "fiscprops": [
+            {
+              "caption": "ВСЕГО ЧЕКОВ",
+              "printable": "ВСЕГО ЧЕКОВ\t0",
+              "tag": 1134,
+              "value": 0
+            },
+            {
+              "caption": "ПРИХОД",
+              "fiscprops": [
+                {
+                  "caption": "ГРОСС ИТОГ ПРИХ.",
+                  "printable": "ГРОСС ИТОГ ПРИХ.\t1555,68",
+                  "tag": 3004,
+                  "value": 155568
+                }
+              ],
+              "tag": 1129
+            },
+            {
+              "caption": "КОРРЕКЦИИ",
+              "fiscprops": [
+                {
+                  "caption": "ЧЕКОВ КОРРЕКЦИИ",
+                  "printable": "ЧЕКОВ КОРРЕКЦИИ\t0",
+                  "tag": 1144,
+                  "value": 0
+                }
+              ],
+              "tag": 1133
+            }
+          ],
+          "tag": 1194
+        },
+        {
+          "printable": "",
+          "tag": 1209,
+          "value": 2
+        },
+        {
+          "caption": "РН ККТ",
+          "printable": "РН ККТ\t0000000001020321",
+          "tag": 1037,
+          "value": "0000000001020321    "
+        },
+        {
+          "caption": "ФД",
+          "printable": "ФД\t35",
+          "tag": 1040,
+          "value": 35
+        },
+        {
+          "caption": "ФН",
+          "printable": "ФН\t9999078900002164",
+          "tag": 1041,
+          "value": "9999078900002164"
+        },
+        {
+          "caption": "ФП",
+          "printable": "ФП\t3530041966",
+          "tag": 1077,
+          "value": "2404d2682a6e"
+        }
+      ],
+      "name": "Отчет о закрытии смены"
+    },
+    "result": 0
+  },
+  "protocol": 1,
+  "version": "1.0"
+}
